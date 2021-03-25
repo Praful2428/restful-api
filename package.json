@@ -14,5 +14,14 @@
     "mongoose": "^5.12.2",
     "nodemon": "^2.0.7",
     "validator": "^13.5.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Praful2428/restful-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Praful2428/restful-api/issues"
+  },
+  "homepage": "https://github.com/Praful2428/restful-api#readme"
 }
